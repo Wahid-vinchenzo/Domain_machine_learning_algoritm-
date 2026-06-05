@@ -1,0 +1,401 @@
+Age,Gender,CGPA,IT_Specialization,Coding_Proficiency,Project_Exposure,Internship_Experience,Family_Pressure,Trend_Following,Anxiety,Uncertainty,University_Support,Communication,Leadership,Sleep_Hours,Social_Media_Hours,Favorite_Color,Netflix_Hours,Confusion_Level
+25,Female,2.93,AI/ML,2,9,Yes,2,2,2,1,3,5.0,1,8.7,4.4,Black,4.3,Low
+20,Prefer not to say,3.62,AI/ML,4,10,Yes,2,4,2,5,3,1.0,4,5.6,1.3,White,0.0,High
+21,Prefer not to say,,Data Science,4,8,Yes,5,4,1,3,2,,5,8.6,2.2,White,4.0,Medium
+23,Female,3.05,Data Science,4,1,No,1,2,3,5,1,5.0,4,5.0,6.5,Red,3.8,High
+23,Male,3.69,Software Engineering,2,5,No,1,2,5,2,5,1.0,2,5.5,7.9,Black,0.9,Medium
+20,Prefer not to say,3.59,Software Engineering,2,4,Yes,3,2,1,5,3,3.0,2,5.9,3.4,Black,2.3,Medium
+20,Prefer not to say,2.53,Cyber Security,1,5,No,4,2,3,2,3,2.0,2,5.9,4.1,Red,5.3,High
+22,Female,2.33,AI/ML,3,10,No,4,5,2,3,4,2.0,3,5.9,5.7,White,4.0,High
+25,Prefer not to say,,Data Science,3,0,No,3,2,2,3,4,4.0,3,7.3,1.0,White,3.2,Medium
+24,Prefer not to say,3.41,AI/ML,2,8,No,2,3,4,4,5,,3,5.0,1.1,Red,4.8,Low
+22,Female,2.3,Cyber Security,3,5,No,2,1,4,4,2,2.0,2,8.5,7.1,Black,2.5,Medium
+20,Prefer not to say,2.65,Data Science,3,7,No,2,4,5,4,2,,5,4.1,3.3,Black,0.4,High
+21,Prefer not to say,3.43,Software Engineering,3,10,Yes,5,3,4,3,2,4.0,1,4.2,4.6,White,4.5,High
+25,Female,3.45,Software Engineering,4,3,Yes,1,4,2,3,3,5.0,2,7.9,2.2,Green,3.9,Medium
+21,Female,3.42,Data Science,2,2,Yes,5,1,1,5,4,5.0,5,7.8,5.3,Green,4.6,Medium
+23,Prefer not to say,2.99,Software Engineering,3,2,Yes,2,4,5,1,2,2.0,5,6.2,6.6,Red,5.3,Low
+20,Female,2.5,Data Science,4,5,No,3,5,1,5,4,2.0,1,8.4,6.7,Green,1.7,High
+24,Male,2.27,AI/ML,2,9,No,3,3,1,4,3,2.0,1,7.8,7.6,Black,2.5,Medium
+23,Male,2.51,AI/ML,4,0,Yes,2,3,2,5,1,1.0,2,4.7,7.7,Green,0.4,Medium
+24,Male,3.58,Cyber Security,2,0,Yes,5,4,4,1,2,4.0,2,6.4,5.3,Green,3.0,High
+26,Prefer not to say,2.58,Cyber Security,1,6,Yes,2,2,4,2,2,2.0,5,7.4,4.5,White,0.5,Medium
+23,Male,3.47,Software Engineering,4,8,Yes,2,3,3,5,3,1.0,1,6.2,3.2,Red,4.0,Medium
+23,Male,3.41,Cyber Security,1,9,No,2,3,1,2,3,5.0,3,5.0,1.4,Red,2.1,Low
+20,Male,3.75,Data Science,1,5,No,4,2,5,2,1,2.0,2,5.7,2.8,Red,3.9,High
+25,Female,2.35,Software Engineering,3,7,No,5,4,5,3,3,3.0,5,5.2,7.5,Blue,1.6,High
+25,Female,2.75,Software Engineering,5,3,Yes,4,4,5,1,5,4.0,1,7.7,3.0,Black,2.6,Medium
+22,Female,3.99,Web Development,5,11,Yes,3,4,2,1,5,3.0,5,4.4,1.1,White,0.5,Low
+25,Prefer not to say,2.96,Software Engineering,5,9,Yes,1,1,3,2,2,1.0,4,8.2,7.2,Blue,5.0,Low
+22,Prefer not to say,4.0,Cyber Security,4,1,No,2,4,4,1,1,3.0,2,7.8,6.1,Red,4.5,Medium
+24,Female,2.9,Data Science,3,9,No,2,5,3,4,3,4.0,3,4.7,3.3,Blue,4.8,High
+24,Male,3.13,Software Engineering,2,8,No,2,5,1,3,4,4.0,1,6.1,1.7,Red,1.2,Medium
+24,Male,2.74,Cyber Security,1,2,No,3,2,5,2,1,1.0,2,5.5,3.3,Red,2.7,High
+26,Prefer not to say,3.31,AI/ML,2,5,Yes,1,3,5,2,2,5.0,4,7.6,7.7,White,2.1,High
+23,Male,3.64,Software Engineering,3,0,Yes,5,5,3,2,2,5.0,3,8.8,4.9,Green,1.0,High
+21,Prefer not to say,3.44,Software Engineering,5,4,Yes,3,4,2,2,1,4.0,4,6.1,4.8,Black,2.2,Medium
+22,Female,2.67,Cyber Security,2,12,No,2,1,3,1,1,5.0,2,7.0,5.2,Green,6.0,Medium
+21,Female,2.44,AI/ML,2,4,Yes,5,5,5,3,2,,2,5.3,4.0,Black,0.6,High
+21,Female,3.09,Software Engineering,4,10,Yes,4,3,2,5,1,,5,8.8,7.8,Green,4.7,Medium
+25,Prefer not to say,2.23,Software Engineering,2,11,Yes,4,2,5,4,4,2.0,1,7.0,2.1,Black,1.1,Medium
+24,Female,,Cyber Security,4,4,Yes,1,3,1,1,2,4.0,2,5.4,3.4,Blue,4.1,Low
+26,Male,3.68,Web Development,5,3,No,3,2,5,3,4,,3,8.8,3.1,Red,3.3,High
+22,Female,2.65,Cyber Security,2,10,Yes,2,5,2,3,3,4.0,2,8.4,3.6,Blue,0.0,Medium
+20,Prefer not to say,3.52,Web Development,4,10,No,2,3,5,2,5,5.0,5,4.8,7.7,Blue,3.0,High
+25,Male,2.79,Web Development,4,8,No,3,2,1,1,2,2.0,2,7.6,7.7,Blue,2.0,Low
+21,Prefer not to say,2.36,AI/ML,4,6,Yes,3,4,3,5,1,4.0,5,8.4,4.0,Green,4.4,Medium
+25,Prefer not to say,3.07,Web Development,3,11,Yes,4,4,4,2,4,5.0,5,5.5,4.1,Black,4.7,Medium
+22,Male,3.82,Data Science,4,3,Yes,3,4,1,4,4,,1,8.7,4.8,White,5.6,Low
+26,Male,,Software Engineering,2,2,Yes,3,1,3,1,1,2.0,2,8.7,8.0,Blue,3.1,Low
+21,Prefer not to say,3.06,Software Engineering,3,5,No,2,3,1,4,1,2.0,4,8.6,3.0,Green,2.0,High
+24,Male,3.38,Cyber Security,4,10,No,1,4,1,3,5,,1,8.8,6.0,Green,4.1,Low
+24,Male,2.87,Cyber Security,3,9,No,3,3,3,4,2,5.0,1,4.4,4.4,Red,4.1,High
+21,Prefer not to say,2.78,Software Engineering,2,3,Yes,2,5,3,5,4,3.0,3,5.0,2.9,Blue,1.0,High
+21,Female,3.41,Cyber Security,1,2,Yes,3,3,4,2,1,5.0,3,5.2,7.5,Red,1.5,High
+22,Male,3.28,AI/ML,5,2,Yes,5,2,3,4,4,2.0,2,8.6,6.7,Black,1.7,Medium
+26,Prefer not to say,3.0,Data Science,2,12,No,5,1,2,3,4,1.0,5,7.5,1.3,Red,5.9,Medium
+20,Male,2.23,Cyber Security,1,2,Yes,2,1,1,1,1,3.0,3,4.9,3.7,Red,2.6,Low
+25,Male,2.78,Software Engineering,1,5,Yes,3,3,5,1,2,5.0,5,5.6,5.6,White,2.8,High
+21,Prefer not to say,3.54,Web Development,1,0,Yes,4,1,2,2,2,1.0,5,8.5,7.0,Red,4.7,High
+22,Prefer not to say,3.87,Web Development,1,10,No,5,4,5,3,5,2.0,5,7.9,7.8,White,2.1,High
+21,Prefer not to say,2.64,Data Science,5,9,Yes,2,1,1,2,5,5.0,5,6.1,5.6,Red,1.7,Low
+25,Female,3.83,Cyber Security,1,1,Yes,5,3,3,2,2,5.0,4,8.8,3.4,Blue,1.3,Medium
+23,Male,3.11,Data Science,1,11,No,5,2,4,3,3,5.0,3,7.8,4.7,Green,0.1,High
+26,Prefer not to say,2.88,AI/ML,2,9,No,5,1,2,4,5,2.0,5,5.9,2.1,Red,4.8,Medium
+20,Female,,AI/ML,3,10,No,5,5,4,1,5,5.0,5,5.8,3.4,Red,4.1,High
+26,Male,3.62,Cyber Security,2,11,No,5,2,2,5,4,2.0,4,8.1,4.2,Green,5.5,High
+24,Female,3.26,Cyber Security,1,6,Yes,5,4,5,2,2,1.0,1,8.5,6.8,Black,0.9,High
+23,Prefer not to say,2.32,AI/ML,2,8,No,4,2,5,3,5,3.0,2,6.2,6.2,Blue,2.4,Medium
+23,Prefer not to say,3.45,Web Development,3,1,Yes,2,4,5,5,1,5.0,1,7.4,7.6,Black,3.5,High
+25,Prefer not to say,2.54,Cyber Security,1,3,No,2,2,2,3,4,1.0,5,7.8,5.4,Red,4.5,Medium
+20,Male,,Web Development,2,0,No,5,3,2,3,3,3.0,4,5.8,6.5,Blue,5.6,Medium
+23,Male,3.94,Data Science,5,0,No,5,3,4,1,1,3.0,4,5.6,2.4,Green,3.4,Medium
+25,Female,2.91,Cyber Security,2,9,Yes,4,5,2,2,2,1.0,4,6.5,4.2,White,5.4,Medium
+20,Female,2.31,Cyber Security,5,2,No,2,2,3,2,2,3.0,4,8.0,3.7,White,5.2,Low
+26,Prefer not to say,3.82,Data Science,1,10,No,2,2,3,1,1,4.0,5,4.0,4.6,Black,4.3,Medium
+22,Female,3.58,Software Engineering,1,5,Yes,5,2,1,1,5,3.0,3,8.4,2.0,Red,1.5,Medium
+21,Prefer not to say,2.35,Data Science,4,8,Yes,3,5,1,4,2,3.0,1,5.6,4.6,Black,0.4,High
+24,Male,3.57,Software Engineering,2,5,No,4,1,5,1,2,2.0,3,6.6,4.7,White,3.8,High
+20,Female,2.52,Web Development,4,9,No,3,4,1,1,5,3.0,2,5.5,6.1,Blue,3.5,Low
+24,Male,3.23,Software Engineering,5,3,Yes,2,4,2,2,1,3.0,1,8.8,4.1,Green,1.2,Low
+20,Prefer not to say,3.54,AI/ML,5,4,Yes,1,3,1,1,1,1.0,4,4.9,4.8,Red,4.9,Low
+23,Female,2.99,Cyber Security,5,6,Yes,3,4,2,4,3,3.0,4,8.3,6.5,White,3.1,Low
+26,Female,3.19,Cyber Security,3,3,No,3,4,5,3,3,2.0,3,4.9,1.7,Red,1.8,High
+21,Male,3.58,Software Engineering,1,6,Yes,4,1,4,5,4,5.0,4,6.9,5.8,White,1.3,High
+20,Male,3.14,Web Development,5,4,Yes,3,3,5,4,1,2.0,2,6.8,5.6,Red,0.9,High
+20,Male,2.59,Data Science,3,2,No,2,1,3,3,3,5.0,3,7.2,3.8,Blue,1.9,Low
+20,Female,2.36,Data Science,4,10,Yes,3,5,1,4,5,2.0,4,6.3,1.5,Blue,2.9,Low
+23,Female,3.57,Data Science,4,3,No,3,1,1,5,2,4.0,5,5.9,1.1,Green,0.2,Medium
+26,Male,2.29,Web Development,4,4,No,4,1,5,2,4,4.0,2,8.2,5.7,Black,0.0,Medium
+25,Female,2.29,AI/ML,2,0,No,5,1,3,2,2,3.0,5,4.6,2.8,Red,0.4,High
+20,Male,3.35,Web Development,1,7,No,5,5,2,4,1,3.0,2,7.7,7.1,Black,2.4,High
+26,Prefer not to say,2.79,Software Engineering,2,4,Yes,5,4,1,1,5,5.0,5,5.6,5.2,Red,5.6,Medium
+21,Female,,Web Development,3,1,Yes,2,4,3,2,5,5.0,1,4.6,2.1,Green,4.2,Medium
+23,Prefer not to say,3.85,Web Development,5,6,No,4,2,1,2,3,5.0,5,7.4,2.7,Black,5.0,Low
+20,Prefer not to say,3.71,AI/ML,2,9,No,5,5,4,5,4,3.0,2,7.5,1.3,Blue,0.2,High
+23,Male,3.58,Data Science,2,4,No,2,4,2,1,2,4.0,3,5.2,4.0,White,2.5,Medium
+21,Prefer not to say,3.84,Cyber Security,2,12,Yes,3,4,3,1,5,1.0,5,8.1,7.1,Blue,2.4,Medium
+26,Female,,Data Science,5,7,Yes,1,2,5,4,1,5.0,3,5.8,1.8,Blue,2.0,High
+20,Male,2.82,Software Engineering,4,3,No,4,4,1,3,5,1.0,5,4.7,5.9,White,5.8,Medium
+22,Female,3.83,AI/ML,3,1,Yes,5,2,2,1,1,4.0,2,6.1,6.7,White,1.1,Medium
+25,Female,2.72,Software Engineering,1,0,Yes,2,4,4,5,5,4.0,4,4.1,6.8,Green,4.2,High
+21,Male,2.68,Web Development,3,0,Yes,3,3,5,4,4,4.0,1,5.6,5.8,Black,5.0,Medium
+26,Female,3.04,Software Engineering,1,2,Yes,5,3,2,4,1,3.0,3,4.3,6.9,Blue,6.0,High
+25,Prefer not to say,3.02,Software Engineering,4,9,No,2,4,5,1,2,3.0,4,4.8,2.7,Black,0.1,Medium
+25,Male,,Cyber Security,5,1,Yes,1,3,3,5,2,2.0,5,4.5,4.2,White,5.7,High
+20,Prefer not to say,3.61,Software Engineering,5,2,Yes,3,1,2,1,4,3.0,4,4.1,1.6,Red,4.9,Low
+22,Prefer not to say,3.08,Data Science,2,10,Yes,3,2,2,5,1,2.0,4,8.8,7.0,Black,3.0,High
+20,Male,3.35,AI/ML,5,5,Yes,2,3,4,4,2,3.0,1,5.7,7.0,White,2.2,High
+25,Prefer not to say,3.38,Cyber Security,5,10,Yes,2,2,1,2,5,2.0,5,8.7,5.2,Red,3.9,Low
+25,Female,2.72,AI/ML,3,4,No,3,4,4,5,3,2.0,2,5.3,5.3,Black,0.3,High
+26,Female,2.99,Cyber Security,2,7,Yes,4,5,2,4,5,4.0,4,8.8,7.5,Green,5.7,High
+26,Male,3.69,AI/ML,5,6,No,5,5,2,4,1,4.0,3,4.5,1.4,White,5.8,High
+24,Prefer not to say,3.54,Data Science,4,8,No,1,5,2,3,1,3.0,3,8.7,2.7,Blue,4.3,Medium
+20,Female,3.77,Web Development,3,5,No,5,5,2,5,1,,3,4.7,4.0,Blue,0.4,High
+21,Male,2.52,Web Development,4,9,No,2,1,4,2,5,4.0,1,4.9,7.5,Black,0.5,Low
+21,Female,3.15,AI/ML,3,11,No,4,3,4,2,1,5.0,1,5.1,5.2,Green,1.8,High
+22,Male,3.5,Software Engineering,2,4,Yes,5,4,4,3,1,4.0,1,8.6,5.4,Blue,2.3,High
+26,Male,2.93,Data Science,5,12,No,1,5,2,4,1,1.0,5,7.0,1.9,Green,4.3,Medium
+23,Male,2.68,Web Development,4,2,No,2,5,2,3,5,5.0,1,7.4,2.7,Green,4.4,Medium
+20,Male,3.96,Software Engineering,5,6,Yes,4,2,1,5,2,1.0,4,8.2,3.9,White,2.7,Medium
+24,Female,2.39,AI/ML,4,9,No,3,4,3,3,4,4.0,4,5.6,1.3,Red,5.4,Medium
+25,Male,3.71,AI/ML,1,11,No,5,5,5,2,2,5.0,1,8.9,2.6,Black,3.2,High
+26,Prefer not to say,2.84,AI/ML,4,1,Yes,1,2,1,3,1,4.0,3,7.5,6.3,Green,2.1,Low
+23,Male,3.01,AI/ML,1,6,No,2,1,2,2,1,1.0,3,6.0,5.9,Red,4.0,Medium
+20,Prefer not to say,2.37,Cyber Security,1,11,No,5,3,2,3,2,3.0,3,7.6,6.5,Black,1.0,High
+21,Female,,Software Engineering,1,11,Yes,4,1,1,3,3,2.0,1,7.3,2.9,Red,2.6,Medium
+20,Female,3.22,Software Engineering,5,0,No,1,1,1,3,5,5.0,4,4.9,2.6,Red,4.7,Low
+21,Male,3.3,Web Development,1,7,No,4,2,3,2,4,1.0,1,7.8,6.8,White,5.8,Medium
+25,Male,2.67,Data Science,4,9,Yes,3,5,2,3,1,4.0,5,7.4,4.1,Red,5.3,Medium
+21,Male,3.29,Data Science,3,10,No,5,1,3,5,3,5.0,5,7.8,6.4,Blue,4.6,High
+23,Male,2.28,Web Development,3,2,Yes,3,4,5,3,2,2.0,4,6.9,1.6,Green,2.6,High
+21,Male,3.39,Web Development,4,12,Yes,2,2,3,5,5,4.0,5,5.0,7.7,White,5.8,Medium
+26,Prefer not to say,3.97,Cyber Security,1,2,No,5,4,1,5,1,1.0,5,4.4,3.1,Black,0.6,High
+20,Prefer not to say,3.42,AI/ML,1,5,No,3,3,3,1,4,2.0,2,8.4,6.1,White,5.6,High
+21,Male,2.26,Cyber Security,5,11,No,1,1,5,5,4,3.0,4,8.7,7.9,Red,0.1,High
+25,Prefer not to say,2.63,AI/ML,1,12,No,3,2,1,1,5,3.0,2,8.6,6.6,White,2.5,Low
+24,Male,2.53,Web Development,2,10,No,5,5,4,4,3,2.0,4,6.0,1.3,White,0.4,High
+26,Male,2.62,Data Science,4,4,Yes,5,5,1,3,2,3.0,2,8.2,3.7,White,1.8,Medium
+25,Female,3.07,Data Science,5,5,No,1,4,4,4,4,1.0,4,5.4,3.5,Black,3.6,Medium
+20,Male,2.73,Data Science,3,9,No,3,2,3,1,1,1.0,5,6.0,7.4,Black,2.6,Medium
+21,Prefer not to say,3.11,AI/ML,4,7,Yes,2,1,5,4,2,1.0,5,5.0,6.9,White,3.4,Medium
+21,Prefer not to say,3.24,Data Science,1,0,No,5,5,2,4,4,3.0,4,5.7,7.1,White,0.4,High
+26,Prefer not to say,2.97,AI/ML,2,9,No,3,3,1,1,3,1.0,2,7.5,2.1,Black,4.1,Low
+24,Prefer not to say,3.09,AI/ML,2,8,No,5,1,2,5,5,4.0,2,9.0,5.1,Red,2.8,Medium
+26,Prefer not to say,2.57,Web Development,1,6,Yes,4,5,2,5,3,,5,5.4,2.2,Blue,0.6,Medium
+24,Female,3.29,Cyber Security,5,2,No,1,1,5,5,2,2.0,2,6.6,5.7,White,1.6,High
+24,Female,2.66,Software Engineering,5,10,Yes,4,3,1,3,1,3.0,3,4.7,3.4,White,5.0,Low
+26,Female,2.27,Software Engineering,5,0,Yes,3,3,2,1,3,3.0,2,4.4,6.0,White,3.0,Low
+24,Female,3.44,AI/ML,5,7,No,3,1,5,5,2,2.0,5,7.6,3.7,Green,4.3,High
+23,Prefer not to say,3.5,AI/ML,1,12,No,3,5,1,1,1,2.0,5,4.2,2.2,Green,0.2,High
+22,Female,3.66,Web Development,4,0,No,5,3,4,4,5,2.0,4,4.6,5.2,Red,4.8,High
+24,Prefer not to say,3.48,Cyber Security,5,5,Yes,1,2,2,2,1,4.0,3,6.2,2.5,White,2.5,Low
+25,Female,3.64,Web Development,2,8,No,2,5,4,1,2,3.0,1,5.3,2.5,Green,4.4,High
+23,Female,2.94,AI/ML,1,3,No,1,1,1,2,2,4.0,4,8.1,7.3,Green,2.9,Low
+24,Male,2.29,Software Engineering,4,0,Yes,5,3,5,1,3,2.0,4,6.0,2.5,White,1.5,Medium
+20,Female,,Software Engineering,1,1,Yes,4,3,3,5,5,4.0,5,7.1,1.8,Red,4.5,High
+25,Prefer not to say,2.91,Software Engineering,2,3,Yes,3,1,4,5,4,1.0,5,4.3,6.8,Blue,1.6,Medium
+20,Female,3.24,Web Development,5,9,Yes,3,3,4,1,3,4.0,3,5.4,5.2,Green,0.7,Medium
+25,Male,3.16,Web Development,3,5,No,1,1,4,5,2,2.0,5,7.6,6.8,Red,0.9,High
+25,Male,2.98,Web Development,4,10,No,3,5,1,5,4,2.0,4,7.7,7.0,White,0.8,Medium
+24,Male,2.67,AI/ML,2,7,No,5,1,2,4,5,5.0,2,5.7,2.0,Blue,1.0,Medium
+26,Female,2.76,AI/ML,3,4,Yes,5,4,5,3,4,2.0,4,6.2,2.9,White,5.9,High
+20,Male,2.3,Software Engineering,5,5,No,3,3,4,1,3,2.0,3,5.3,5.0,White,2.8,Medium
+22,Prefer not to say,3.14,Cyber Security,3,5,No,4,2,3,5,4,3.0,1,5.3,2.5,Red,2.8,Medium
+26,Male,2.96,AI/ML,3,2,No,1,5,2,2,4,4.0,3,8.8,4.7,White,0.8,Medium
+25,Male,2.89,Software Engineering,2,10,No,2,1,5,1,4,1.0,3,6.3,5.7,White,4.7,Medium
+25,Male,3.52,Web Development,2,10,No,5,4,1,4,1,3.0,5,7.0,5.3,Blue,2.7,High
+24,Prefer not to say,2.25,Software Engineering,1,4,No,2,2,4,2,5,4.0,3,8.3,7.2,Red,5.4,Medium
+25,Prefer not to say,3.11,Software Engineering,3,10,No,2,3,2,3,2,2.0,5,6.6,7.7,Black,4.7,Medium
+21,Prefer not to say,2.68,AI/ML,5,1,Yes,4,4,5,1,1,5.0,2,6.7,5.7,Blue,1.3,High
+21,Male,3.13,Software Engineering,3,5,No,2,4,4,2,3,3.0,3,4.3,7.7,White,4.2,Medium
+26,Female,3.04,Web Development,3,4,Yes,5,3,1,5,2,4.0,4,8.0,7.4,Black,4.0,Medium
+24,Female,3.19,Cyber Security,4,2,Yes,5,1,2,5,5,3.0,2,7.0,4.3,Black,3.7,Medium
+25,Prefer not to say,2.51,AI/ML,3,0,Yes,5,4,4,2,2,2.0,3,5.4,2.8,Blue,5.3,High
+26,Male,3.13,Software Engineering,3,8,No,3,5,2,5,4,1.0,4,7.9,3.2,Green,3.8,High
+22,Female,2.51,Web Development,5,12,No,2,4,1,3,4,4.0,1,5.0,3.5,White,0.0,Low
+20,Male,3.86,Software Engineering,4,0,Yes,2,2,1,1,4,1.0,5,7.6,2.4,Green,5.5,Low
+26,Prefer not to say,2.85,Data Science,3,4,Yes,3,4,4,1,1,2.0,2,4.4,5.1,White,3.3,Medium
+23,Prefer not to say,3.05,Software Engineering,2,7,Yes,4,3,2,1,3,,2,5.5,3.8,White,0.6,Low
+25,Female,3.16,Web Development,5,4,No,4,1,1,1,5,3.0,4,8.3,7.7,Black,5.1,Low
+25,Female,3.44,AI/ML,5,12,No,1,1,5,2,2,4.0,2,4.3,3.5,Red,4.5,Medium
+23,Female,2.89,Data Science,3,5,No,4,2,5,4,1,2.0,5,4.1,4.0,Red,5.6,Medium
+21,Male,,Web Development,4,3,No,4,2,2,1,1,5.0,2,8.4,1.6,Blue,5.4,Medium
+20,Prefer not to say,3.43,AI/ML,2,3,No,2,3,5,2,4,5.0,3,7.3,6.5,Green,3.3,Medium
+23,Female,2.82,Web Development,1,3,No,3,3,4,4,2,4.0,2,7.1,4.3,Blue,4.2,High
+23,Prefer not to say,2.7,AI/ML,2,6,Yes,2,1,3,3,1,2.0,4,7.3,4.1,Blue,5.9,Medium
+24,Prefer not to say,2.58,Cyber Security,2,8,No,2,5,4,5,4,3.0,3,5.3,5.2,Green,6.0,High
+23,Male,2.52,Software Engineering,3,1,Yes,3,4,4,4,1,2.0,2,4.0,6.9,Green,5.7,Medium
+25,Female,2.64,Software Engineering,1,10,No,1,2,4,3,1,2.0,3,5.6,8.0,Green,3.3,Medium
+23,Male,2.37,Software Engineering,5,12,No,5,3,4,4,2,4.0,4,6.6,3.1,White,2.7,High
+23,Female,3.99,Data Science,3,10,Yes,2,4,2,2,4,2.0,5,6.9,3.0,Green,1.0,Low
+26,Male,3.42,Data Science,1,3,No,1,5,2,2,1,2.0,4,4.4,3.7,Red,2.1,Medium
+22,Male,3.56,Cyber Security,1,3,Yes,4,3,1,2,1,4.0,4,6.4,4.9,Red,3.0,Medium
+22,Male,3.42,AI/ML,4,3,No,2,3,5,3,3,5.0,4,7.9,3.7,Blue,0.5,Medium
+22,Male,2.71,Software Engineering,2,5,No,2,5,5,2,2,4.0,3,8.4,4.8,Green,0.1,Medium
+26,Prefer not to say,2.51,AI/ML,5,5,Yes,2,3,2,3,5,2.0,3,5.4,6.2,White,4.3,Low
+25,Prefer not to say,2.94,Data Science,4,1,No,1,4,4,2,3,1.0,4,6.8,5.7,Green,1.5,Low
+21,Male,2.67,Cyber Security,4,2,No,4,5,5,2,4,2.0,5,8.8,6.7,Green,3.5,High
+26,Prefer not to say,2.21,Web Development,2,3,No,1,5,5,4,3,1.0,4,8.9,5.5,Black,4.3,High
+23,Male,3.76,Cyber Security,1,4,Yes,2,2,1,3,5,2.0,2,8.8,6.9,Green,0.9,Low
+26,Male,2.54,Cyber Security,1,4,No,2,5,3,3,2,3.0,2,4.1,1.9,Black,1.2,High
+20,Male,2.8,Data Science,3,5,No,1,2,2,4,3,2.0,2,5.3,1.1,Blue,5.7,Medium
+23,Female,3.21,AI/ML,2,8,No,1,2,5,5,5,5.0,2,6.3,3.6,White,1.8,Medium
+22,Male,3.72,Web Development,4,12,No,4,4,5,1,1,3.0,3,4.6,1.9,Red,1.2,Medium
+21,Prefer not to say,2.61,Data Science,3,12,Yes,2,1,3,5,1,5.0,4,6.2,7.6,Black,4.2,Medium
+22,Prefer not to say,3.26,AI/ML,2,9,No,3,5,2,1,2,5.0,4,6.5,6.8,Green,0.7,Medium
+24,Male,2.3,Data Science,5,11,No,5,2,1,4,4,4.0,5,8.6,3.3,White,4.9,Medium
+25,Male,3.89,Software Engineering,1,2,No,3,1,3,5,4,2.0,4,4.6,4.6,Red,5.6,Medium
+25,Female,3.99,AI/ML,2,5,No,5,2,2,5,4,,3,8.2,4.7,Green,4.8,High
+22,Female,2.83,Software Engineering,3,11,No,5,2,3,5,2,4.0,3,4.1,6.7,Green,3.3,High
+23,Female,3.92,Web Development,2,0,No,5,3,3,2,1,,4,6.7,3.8,White,3.2,High
+23,Male,2.69,Web Development,4,9,No,2,2,2,3,4,1.0,4,5.7,4.4,White,0.4,Low
+20,Prefer not to say,3.14,Data Science,4,8,Yes,1,4,2,3,3,3.0,1,4.8,1.3,Red,1.7,Low
+26,Prefer not to say,2.89,Cyber Security,3,12,No,2,4,2,4,1,2.0,1,4.6,2.8,Green,6.0,Medium
+21,Male,2.36,Web Development,2,1,No,2,4,4,3,3,1.0,5,8.4,4.8,Blue,2.0,Medium
+21,Prefer not to say,3.25,Web Development,3,11,Yes,3,2,5,5,1,4.0,2,4.1,3.6,Blue,4.4,High
+20,Male,3.93,AI/ML,3,3,No,2,2,4,5,3,4.0,4,9.0,6.0,Blue,1.2,High
+23,Prefer not to say,3.89,Web Development,1,1,Yes,3,4,3,1,1,4.0,1,4.8,1.7,White,0.2,High
+20,Female,3.83,Data Science,3,1,No,5,1,5,1,5,3.0,2,5.7,1.4,Black,1.1,Medium
+21,Female,3.5,Cyber Security,5,1,No,5,2,5,3,4,,4,7.8,2.2,Red,1.1,High
+24,Prefer not to say,2.66,Software Engineering,5,1,Yes,3,1,5,3,2,5.0,5,6.8,3.4,Green,1.0,Medium
+26,Female,3.16,Data Science,1,8,No,5,4,3,5,4,4.0,3,7.8,1.5,Green,2.0,High
+25,Male,3.82,Software Engineering,3,10,Yes,2,2,1,3,3,4.0,5,4.5,4.6,White,2.8,Low
+22,Female,3.55,Cyber Security,5,4,No,4,5,2,5,3,2.0,2,7.4,6.4,Green,3.1,High
+22,Female,3.52,Data Science,2,2,Yes,2,4,2,3,4,,3,4.5,1.4,Blue,1.4,Medium
+22,Male,2.53,AI/ML,2,6,Yes,3,2,1,5,3,5.0,1,5.6,5.7,White,3.0,Medium
+22,Female,,Web Development,3,9,Yes,5,5,2,5,4,4.0,3,8.2,5.9,White,4.3,High
+26,Male,3.02,Cyber Security,1,7,No,2,3,2,5,4,4.0,1,5.7,3.3,White,5.6,Medium
+22,Male,2.97,Data Science,4,5,No,4,2,3,4,3,4.0,3,7.3,7.7,Black,1.0,Medium
+24,Male,3.57,Cyber Security,2,10,No,5,3,5,5,5,4.0,5,8.6,7.2,Black,1.8,High
+23,Female,3.03,Software Engineering,1,8,Yes,3,3,4,5,1,3.0,3,4.9,4.4,White,2.0,High
+21,Prefer not to say,2.21,AI/ML,2,4,No,2,1,4,4,2,,4,5.4,4.6,Green,0.3,High
+21,Female,3.45,Software Engineering,3,5,No,1,3,3,2,5,3.0,5,8.3,1.2,Green,0.6,Low
+23,Female,3.19,AI/ML,3,7,No,4,3,3,3,2,,4,7.8,1.6,White,4.7,High
+20,Prefer not to say,3.83,Data Science,5,6,Yes,2,3,3,1,2,4.0,4,5.7,3.0,Green,5.1,Low
+26,Female,,Cyber Security,4,4,Yes,4,5,5,1,2,3.0,1,6.9,6.7,Green,4.3,High
+26,Male,3.11,Web Development,4,6,No,3,2,3,2,5,4.0,2,8.9,5.1,Black,1.5,Low
+24,Male,,Web Development,3,9,Yes,5,3,2,3,2,3.0,1,8.2,6.0,Green,4.8,Medium
+20,Prefer not to say,3.78,Data Science,5,0,No,4,3,4,5,5,1.0,3,8.0,6.6,White,2.2,High
+26,Male,2.3,Web Development,3,8,Yes,1,2,5,2,2,5.0,2,7.0,6.1,Green,2.7,Medium
+26,Female,2.96,Web Development,4,2,Yes,3,5,2,2,3,4.0,1,7.9,6.1,Red,1.2,Medium
+23,Female,,Cyber Security,2,1,No,5,2,3,2,1,1.0,1,5.7,1.9,Blue,1.3,Medium
+22,Female,2.38,AI/ML,1,2,No,5,4,3,4,5,4.0,4,7.8,3.1,Black,5.9,High
+26,Female,2.63,Software Engineering,4,1,No,5,3,3,3,2,1.0,2,4.9,1.8,Green,3.1,High
+26,Prefer not to say,,Web Development,2,11,Yes,4,1,4,3,1,3.0,1,5.7,6.4,White,0.5,Medium
+22,Female,3.85,Data Science,5,10,No,2,1,4,4,2,4.0,2,6.4,7.9,White,3.3,High
+23,Prefer not to say,2.26,Cyber Security,5,0,No,5,5,3,1,3,4.0,3,7.8,7.6,Blue,5.3,High
+20,Male,2.33,Cyber Security,1,10,No,3,2,4,2,5,3.0,3,5.9,8.0,Blue,3.8,Medium
+20,Prefer not to say,3.0,AI/ML,5,12,Yes,4,2,3,5,4,5.0,2,5.1,6.3,Black,1.4,Medium
+24,Prefer not to say,3.4,Cyber Security,5,4,No,2,1,3,4,2,5.0,5,5.0,7.7,Green,0.8,Medium
+22,Male,3.15,Software Engineering,2,6,No,2,3,2,5,1,4.0,5,7.7,3.0,Black,3.9,High
+20,Prefer not to say,3.45,AI/ML,1,4,No,5,1,5,1,2,4.0,5,7.9,3.8,White,4.2,High
+25,Prefer not to say,2.57,Cyber Security,1,12,Yes,3,3,5,5,2,1.0,4,5.7,7.2,White,3.7,High
+21,Female,3.63,Software Engineering,5,11,Yes,3,3,5,5,4,5.0,1,4.8,7.9,Blue,1.7,High
+24,Prefer not to say,3.31,AI/ML,5,5,Yes,3,2,1,1,5,5.0,4,5.3,7.8,Green,5.1,Low
+23,Male,3.77,Data Science,5,7,Yes,5,2,3,1,1,2.0,4,8.0,7.2,Red,0.2,Medium
+20,Male,2.44,Data Science,1,7,Yes,4,3,5,3,3,4.0,2,8.4,6.5,Blue,5.9,High
+23,Male,2.86,Data Science,2,1,Yes,3,4,1,3,3,4.0,1,4.2,5.9,Green,1.6,Low
+23,Female,3.51,Software Engineering,2,9,No,2,2,2,1,3,,2,5.9,5.1,Green,3.4,Low
+21,Male,3.09,Data Science,2,6,Yes,2,3,3,5,3,5.0,4,5.0,4.7,White,3.7,High
+25,Prefer not to say,2.83,Cyber Security,3,10,No,1,3,4,3,3,2.0,5,8.4,6.6,Black,4.4,Medium
+24,Male,2.6,AI/ML,4,12,Yes,1,3,4,5,5,3.0,3,7.6,7.3,Blue,0.1,Medium
+26,Male,3.02,Web Development,5,7,Yes,2,4,1,5,3,4.0,4,4.5,1.2,Red,3.3,Medium
+22,Male,2.93,Software Engineering,2,4,No,4,3,1,1,1,4.0,3,6.2,4.4,Blue,3.0,Medium
+21,Female,,Software Engineering,3,10,No,2,4,2,3,2,3.0,5,8.2,3.5,Red,3.6,High
+23,Female,2.45,Cyber Security,1,2,No,2,2,5,4,4,1.0,4,7.7,7.9,Black,5.5,Medium
+20,Male,2.55,AI/ML,1,6,Yes,3,2,4,2,3,5.0,1,4.7,1.7,Red,4.9,Medium
+22,Prefer not to say,3.91,AI/ML,3,9,Yes,3,2,2,4,3,4.0,4,5.8,6.1,Red,4.7,High
+23,Female,3.51,Cyber Security,5,0,No,3,1,1,3,3,,4,6.8,7.8,Blue,3.7,Low
+21,Prefer not to say,3.94,Cyber Security,3,1,Yes,3,5,2,2,1,5.0,2,8.9,4.2,Black,2.2,Medium
+25,Prefer not to say,3.57,Cyber Security,2,7,Yes,3,3,3,1,5,5.0,1,5.9,2.2,Black,0.3,Low
+25,Male,3.96,AI/ML,2,8,No,5,5,2,5,4,4.0,5,7.5,7.5,Red,2.2,High
+22,Female,2.9,AI/ML,3,4,Yes,3,5,1,2,4,4.0,5,5.8,3.0,Green,2.0,Medium
+20,Prefer not to say,3.27,Data Science,2,6,No,2,4,1,3,2,3.0,2,5.1,2.2,White,5.0,High
+24,Female,,Data Science,5,11,Yes,1,5,4,1,1,1.0,1,6.5,3.7,White,4.0,Medium
+21,Male,3.36,AI/ML,5,3,No,3,5,2,5,1,5.0,3,7.7,3.1,White,1.1,High
+23,Male,2.82,AI/ML,3,1,Yes,2,5,1,1,3,1.0,1,6.7,3.4,Black,5.5,Low
+20,Prefer not to say,3.19,Web Development,2,5,Yes,3,2,5,5,1,2.0,1,5.0,1.6,Blue,2.0,High
+20,Prefer not to say,2.72,Web Development,5,8,Yes,2,1,5,1,5,2.0,5,6.0,3.7,White,4.2,Medium
+23,Female,2.97,Data Science,5,6,Yes,4,3,3,5,5,3.0,2,7.2,6.7,Red,3.4,High
+22,Prefer not to say,3.42,AI/ML,2,2,Yes,5,1,4,4,4,3.0,3,4.6,4.9,Green,4.7,High
+20,Male,3.67,Web Development,4,5,Yes,5,3,4,2,4,,4,8.7,3.6,Black,5.8,Medium
+20,Female,3.46,Data Science,5,12,Yes,4,5,3,5,5,3.0,4,7.5,5.1,Red,0.6,Medium
+24,Prefer not to say,3.3,AI/ML,3,7,Yes,5,5,3,3,4,4.0,5,5.9,3.9,Black,5.7,High
+22,Female,3.7,Data Science,5,1,Yes,2,5,2,4,5,4.0,1,5.5,6.3,Green,5.4,Low
+22,Male,2.85,Cyber Security,2,2,No,4,4,5,3,2,3.0,1,8.3,2.9,Green,5.7,High
+25,Prefer not to say,,Cyber Security,2,2,No,1,4,3,5,1,1.0,2,4.8,2.7,Red,3.9,Medium
+26,Female,3.42,AI/ML,3,6,No,1,4,3,2,1,5.0,3,6.3,2.2,Blue,0.9,Medium
+23,Male,2.57,AI/ML,5,3,No,5,5,1,5,1,4.0,1,6.3,2.0,Green,3.1,High
+22,Female,2.67,Cyber Security,2,1,No,1,5,1,3,5,5.0,3,5.4,2.7,Red,5.0,Low
+22,Female,2.53,Web Development,5,10,Yes,5,4,3,1,3,3.0,3,6.8,4.3,White,0.1,Medium
+20,Prefer not to say,2.7,Data Science,5,11,Yes,5,3,5,2,3,,4,6.4,5.1,Green,3.0,High
+25,Male,2.7,Cyber Security,3,0,No,5,1,1,4,4,3.0,3,7.6,7.3,Red,2.4,Medium
+24,Male,3.31,Software Engineering,5,8,Yes,3,2,5,4,2,1.0,5,8.6,7.7,Red,3.1,Medium
+25,Female,3.65,Data Science,5,5,Yes,5,4,1,5,2,3.0,4,4.7,4.0,Blue,1.1,Medium
+21,Female,3.96,Cyber Security,4,6,Yes,3,1,1,4,5,4.0,3,6.4,4.5,Blue,4.6,Medium
+25,Female,3.46,AI/ML,2,11,Yes,4,5,4,5,3,2.0,2,8.8,3.6,White,4.4,High
+20,Female,2.33,Software Engineering,1,12,No,5,4,5,1,2,4.0,3,4.3,5.7,Black,5.5,High
+20,Male,2.38,AI/ML,3,5,Yes,1,5,4,1,2,3.0,1,6.3,4.5,Green,2.8,Low
+24,Female,2.87,Data Science,3,10,Yes,5,3,3,2,4,5.0,1,6.1,3.3,Green,3.9,Medium
+24,Male,3.7,Software Engineering,4,5,Yes,1,4,4,2,5,2.0,3,7.5,2.5,Green,4.3,Low
+24,Male,2.75,Cyber Security,4,10,Yes,4,3,1,3,5,,4,6.8,2.3,Blue,4.4,Medium
+24,Prefer not to say,3.79,Data Science,2,2,Yes,3,1,2,5,5,3.0,4,6.8,6.4,Blue,2.3,Low
+23,Prefer not to say,3.61,Web Development,3,5,No,4,2,3,3,5,5.0,1,6.1,5.6,Green,2.8,Low
+20,Prefer not to say,2.79,Software Engineering,3,8,Yes,5,4,5,4,3,4.0,5,7.9,2.9,White,1.2,High
+20,Female,2.86,AI/ML,3,4,No,2,2,3,1,1,3.0,3,7.3,1.1,Red,1.4,Medium
+25,Prefer not to say,2.77,AI/ML,5,12,No,4,3,3,4,5,1.0,4,4.6,2.4,Black,0.6,High
+24,Prefer not to say,,AI/ML,2,1,No,5,4,4,4,5,1.0,2,4.6,6.8,Red,0.5,High
+21,Prefer not to say,3.76,Web Development,3,11,Yes,4,4,3,2,4,4.0,4,4.4,6.6,Green,5.4,Medium
+21,Male,2.53,Web Development,3,8,Yes,3,1,3,4,3,1.0,3,7.2,4.7,Red,0.1,Medium
+21,Prefer not to say,2.52,Web Development,3,10,Yes,2,3,2,5,2,2.0,2,4.3,1.8,Red,2.8,Medium
+20,Male,3.49,AI/ML,1,1,No,5,2,1,2,2,2.0,1,6.7,7.8,White,1.4,Medium
+24,Prefer not to say,3.49,Software Engineering,3,3,Yes,5,3,1,5,2,,1,4.0,5.0,White,1.5,Medium
+21,Male,3.22,Cyber Security,2,3,No,5,3,4,2,2,4.0,1,7.1,5.9,Blue,5.4,High
+23,Prefer not to say,3.48,Data Science,1,9,No,2,1,1,2,3,3.0,4,4.1,5.0,Black,1.6,Low
+26,Prefer not to say,3.18,AI/ML,4,10,Yes,5,5,1,5,2,1.0,5,6.8,1.8,White,0.1,High
+25,Female,3.27,Web Development,5,7,Yes,1,3,2,2,3,3.0,2,5.3,1.1,Red,5.3,Low
+20,Female,3.17,Software Engineering,1,10,No,4,2,3,3,3,5.0,4,8.7,1.6,White,0.2,High
+22,Male,3.12,Data Science,3,6,Yes,1,1,5,1,1,5.0,2,6.1,2.3,Black,1.7,Medium
+25,Prefer not to say,3.75,Web Development,2,12,No,4,2,3,3,3,1.0,4,6.9,5.5,Green,2.5,High
+25,Female,2.99,Cyber Security,1,8,Yes,3,5,5,1,2,,1,7.7,1.3,Black,1.5,High
+20,Male,2.36,AI/ML,4,5,Yes,1,5,5,1,4,5.0,3,8.5,3.9,Red,1.4,Low
+20,Male,3.49,Cyber Security,2,12,Yes,4,1,4,5,5,4.0,1,5.0,4.0,Black,1.5,High
+26,Male,2.7,AI/ML,5,12,No,1,1,1,5,2,1.0,1,7.6,6.9,Blue,2.1,Medium
+24,Prefer not to say,2.8,Data Science,1,4,Yes,1,3,3,2,2,3.0,4,6.0,6.9,Blue,0.4,Low
+26,Prefer not to say,2.24,AI/ML,1,12,No,5,1,4,1,1,1.0,1,5.5,1.2,White,2.2,Medium
+24,Male,3.51,Data Science,2,2,Yes,3,1,5,3,2,5.0,4,7.1,7.4,Blue,4.6,High
+21,Prefer not to say,2.28,Software Engineering,4,9,No,5,4,1,2,1,5.0,3,7.1,1.4,White,5.0,Low
+25,Male,2.28,Cyber Security,1,0,No,1,1,3,5,1,2.0,4,8.8,5.9,Blue,3.9,High
+21,Prefer not to say,2.97,Cyber Security,2,4,No,3,2,3,5,4,3.0,3,8.6,5.0,White,2.5,High
+26,Male,2.84,Data Science,2,10,Yes,5,3,3,1,1,1.0,4,6.7,7.9,Black,0.3,Medium
+25,Male,2.71,Software Engineering,3,6,No,5,2,5,4,3,5.0,3,7.8,1.6,Red,4.6,High
+21,Prefer not to say,3.82,AI/ML,2,5,Yes,5,3,1,1,2,4.0,2,7.0,1.0,White,3.2,Low
+25,Male,2.5,Software Engineering,1,4,Yes,3,2,3,2,5,1.0,3,5.8,6.0,Green,6.0,Medium
+20,Prefer not to say,2.64,Software Engineering,5,8,No,1,3,5,1,5,2.0,4,8.4,2.2,Blue,2.3,Low
+26,Male,3.19,Data Science,4,11,Yes,4,5,3,3,2,3.0,2,8.9,6.7,Black,4.7,High
+24,Male,2.74,Cyber Security,1,2,No,1,1,5,3,4,5.0,4,6.8,3.7,Blue,0.8,Medium
+24,Prefer not to say,2.77,Cyber Security,2,10,Yes,3,5,4,1,1,2.0,2,6.2,4.0,Red,3.3,High
+25,Prefer not to say,2.67,Software Engineering,1,8,Yes,1,5,3,5,3,4.0,2,6.4,4.9,Blue,1.6,High
+22,Female,2.92,Web Development,2,7,Yes,3,2,1,5,4,1.0,2,6.0,1.6,Green,4.8,Medium
+22,Male,3.34,Cyber Security,2,1,No,5,2,1,2,3,2.0,5,7.1,4.0,Blue,3.9,Medium
+25,Male,3.73,Web Development,5,7,No,5,2,4,2,3,2.0,3,8.8,4.0,Blue,2.0,High
+21,Female,3.05,Data Science,5,3,No,2,3,2,2,4,5.0,3,8.4,3.7,Black,0.2,Low
+20,Male,3.91,Web Development,3,5,No,3,2,5,3,1,1.0,3,8.5,4.1,Blue,0.4,High
+25,Male,3.92,Software Engineering,3,7,Yes,5,3,4,5,5,1.0,5,8.9,7.2,White,3.7,High
+21,Prefer not to say,3.2,Software Engineering,5,5,No,5,3,5,4,1,3.0,5,7.3,6.9,Black,4.4,High
+25,Male,2.75,Cyber Security,1,10,No,2,3,3,5,5,3.0,5,8.1,4.1,Black,2.1,High
+26,Prefer not to say,3.53,Data Science,5,12,Yes,1,1,4,3,3,2.0,4,4.2,6.2,White,1.8,Low
+26,Male,4.0,Data Science,5,9,No,2,2,4,2,5,1.0,2,5.0,4.6,Red,4.0,Low
+22,Prefer not to say,3.04,Cyber Security,4,3,No,5,5,3,3,4,5.0,2,6.2,7.5,White,0.9,High
+22,Male,2.9,AI/ML,3,12,No,2,4,4,4,1,3.0,4,6.0,1.7,White,0.7,High
+22,Prefer not to say,3.25,Data Science,5,11,Yes,1,4,2,5,5,4.0,3,7.8,7.8,Red,3.4,Low
+26,Male,3.19,Software Engineering,4,0,Yes,4,5,1,1,3,5.0,3,6.8,7.0,Blue,0.6,Low
+23,Female,3.0,AI/ML,4,3,Yes,4,2,5,1,1,5.0,2,5.9,6.6,Green,3.5,Medium
+20,Prefer not to say,,AI/ML,2,1,Yes,5,4,1,2,2,1.0,4,6.4,4.7,Green,4.8,Medium
+23,Male,3.82,AI/ML,2,11,No,4,3,3,5,5,3.0,3,7.3,2.2,White,4.5,High
+23,Female,3.59,Data Science,3,9,No,5,5,2,1,2,4.0,3,6.7,4.7,Blue,3.4,High
+20,Female,2.58,Cyber Security,2,11,No,5,3,2,2,2,2.0,1,6.6,3.8,Green,4.1,High
+24,Prefer not to say,2.96,Web Development,5,4,No,2,5,3,2,2,4.0,5,5.0,2.1,Red,4.6,Medium
+21,Male,3.82,Data Science,4,9,Yes,5,1,5,5,1,4.0,4,6.4,1.1,Green,1.9,High
+23,Male,2.31,Cyber Security,2,3,Yes,3,4,2,5,5,3.0,3,4.1,3.0,Black,5.4,Medium
+22,Prefer not to say,2.56,Data Science,5,2,Yes,5,2,5,5,1,1.0,5,5.2,2.9,Black,1.5,High
+23,Female,2.89,Cyber Security,3,5,No,3,4,5,4,1,5.0,3,6.9,5.4,Blue,3.5,High
+24,Female,3.3,Web Development,2,2,Yes,1,5,1,3,1,3.0,3,6.1,5.3,Red,1.4,Medium
+25,Female,2.47,Web Development,1,2,No,5,2,4,2,2,5.0,4,7.3,7.7,Black,5.8,High
+22,Male,3.32,Web Development,4,12,Yes,4,1,4,5,3,4.0,3,5.5,4.8,Red,5.9,High
+20,Female,2.99,Data Science,1,4,Yes,1,5,3,3,3,3.0,2,6.7,6.4,White,2.6,Medium
+20,Prefer not to say,2.37,Data Science,3,6,Yes,1,1,4,5,5,4.0,5,8.1,3.7,Red,0.7,Medium
+20,Male,3.06,Web Development,5,4,No,3,5,1,1,3,3.0,4,7.1,5.3,White,5.6,Low
+21,Female,3.83,Software Engineering,4,3,No,2,4,1,2,3,2.0,5,8.1,3.2,Green,3.3,Medium
+20,Male,3.36,Cyber Security,5,7,No,2,5,4,4,1,2.0,1,4.7,7.0,Black,3.7,Medium
+24,Female,2.53,Software Engineering,3,0,Yes,3,3,2,2,5,2.0,1,7.4,6.5,Black,4.7,Low
+20,Prefer not to say,2.63,Cyber Security,1,1,Yes,5,4,5,1,3,1.0,3,7.7,7.8,Green,0.2,High
+23,Male,2.9,AI/ML,1,3,Yes,2,5,2,2,3,1.0,4,7.9,4.9,Red,4.0,Low
+20,Prefer not to say,3.33,Software Engineering,1,8,No,5,4,5,5,3,1.0,2,6.3,4.6,Green,2.6,High
+25,Prefer not to say,2.62,Cyber Security,3,4,No,2,5,1,3,1,3.0,3,7.0,2.6,White,0.8,Medium
+26,Prefer not to say,3.2,Cyber Security,5,3,No,3,5,2,2,2,2.0,1,8.6,7.6,Black,4.3,Medium
+26,Male,3.35,Software Engineering,1,11,No,3,5,2,4,3,5.0,4,4.9,6.9,Green,3.2,High
+24,Female,2.79,Web Development,2,3,No,3,5,4,4,5,1.0,3,6.9,1.3,White,1.9,High
+24,Female,,Software Engineering,2,1,No,3,4,5,4,2,4.0,2,7.2,7.9,Blue,5.5,High
+24,Prefer not to say,3.72,Data Science,4,2,Yes,2,4,4,5,1,2.0,1,6.1,7.1,White,4.4,High
+22,Prefer not to say,3.81,Web Development,3,6,Yes,1,1,1,1,3,5.0,3,4.2,5.6,Red,0.6,Low
+25,Male,2.63,Data Science,2,2,No,2,2,5,4,2,3.0,2,5.0,6.9,White,0.5,High
+23,Prefer not to say,2.93,Software Engineering,4,5,Yes,3,5,5,2,4,1.0,4,8.9,5.7,Blue,4.1,Medium
+24,Prefer not to say,3.55,AI/ML,3,12,Yes,3,3,1,5,4,4.0,1,8.3,7.3,White,3.6,Medium
+22,Male,2.65,Software Engineering,3,0,Yes,1,4,4,4,5,5.0,2,5.7,5.1,White,2.0,Medium
+21,Female,3.48,Data Science,3,7,Yes,1,4,1,4,2,4.0,5,7.3,1.8,White,0.8,Medium
+26,Female,,Software Engineering,1,9,No,1,2,5,3,2,2.0,1,8.2,3.9,Black,3.7,Medium
+26,Male,3.5,Cyber Security,1,11,No,1,2,4,4,1,5.0,5,7.2,1.4,Black,1.6,Medium
+25,Prefer not to say,3.31,AI/ML,4,7,Yes,4,4,1,3,1,1.0,5,7.5,2.4,White,2.5,Medium
+24,Male,2.96,AI/ML,4,7,No,4,5,1,5,2,4.0,1,8.2,3.3,Red,2.0,High
+24,Female,3.59,AI/ML,1,7,No,5,4,1,2,5,5.0,3,4.3,1.6,Blue,3.3,Medium
+24,Prefer not to say,3.24,Cyber Security,2,12,No,3,4,5,5,5,4.0,1,6.7,6.4,White,0.3,High
+21,Male,3.66,Cyber Security,4,6,Yes,5,5,1,5,5,,4,6.3,1.7,Red,1.2,Medium
+20,Male,,Web Development,4,0,Yes,2,1,5,5,1,4.0,5,4.5,6.0,Green,3.1,High
+25,Prefer not to say,2.58,Cyber Security,1,3,No,2,2,4,5,1,3.0,5,5.3,5.8,Red,1.6,High
+26,Female,2.43,Data Science,1,5,Yes,3,4,2,5,4,5.0,2,8.1,7.1,Black,4.8,High
+24,Prefer not to say,2.48,Data Science,5,12,Yes,5,3,2,5,3,3.0,1,5.4,6.8,Red,5.5,Medium
+24,Female,3.47,Software Engineering,2,10,No,1,2,2,4,2,,1,6.2,2.0,Blue,3.2,Medium
+25,Male,2.23,Data Science,4,9,No,5,3,1,1,1,4.0,4,5.0,6.0,Blue,5.1,Medium
+21,Male,,Web Development,5,9,No,1,3,3,5,2,3.0,5,5.2,4.8,Blue,3.6,Medium
